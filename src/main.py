@@ -1,5 +1,3 @@
-2025-29-25 10:05:04#!/usr/bin/env python3
-
 import datetime
 
 def write_version():
